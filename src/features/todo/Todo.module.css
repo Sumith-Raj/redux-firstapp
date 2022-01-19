@@ -1,0 +1,17 @@
+.box{
+    width: 20vw;
+    height: 10%;
+    box-shadow: 0 4px 8px 0 rgba(109, 0, 0, 0.527),
+      0 6px 20px 0 rgba(0, 0, 0, 0.267);
+    background-color: rgb(255, 148, 99);
+    padding: 1vh 1vw;
+    margin: 5vh 40vw;
+    overflow: scroll;
+}
+.button{
+  padding: 10px;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
